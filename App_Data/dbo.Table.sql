@@ -1,0 +1,4 @@
+﻿CREATE TABLE tblProduct
+(
+	[ClothesNo] INT NOT NULL PRIMARY KEY
+)

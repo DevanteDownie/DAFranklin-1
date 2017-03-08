@@ -1,0 +1,5 @@
+﻿CREATE TABLE tblProduct
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [4] NCHAR(10) NULL
+)
